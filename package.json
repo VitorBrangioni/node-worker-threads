@@ -1,0 +1,22 @@
+{
+  "name": "worker-threads",
+  "version": "1.0.0",
+  "description": "Node worker threads POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorBrangioni/node-worker-threads.git"
+  },
+  "author": "Vitor Brangioni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitorBrangioni/node-worker-threads/issues"
+  },
+  "homepage": "https://github.com/VitorBrangioni/node-worker-threads#readme",
+  "dependencies": {
+    "ora": "^5.0.0"
+  }
+}
